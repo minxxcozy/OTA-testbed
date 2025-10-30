@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 128 128" role="img" aria-label="Car with shield">
+  <path d="M20 76 h88 a10 10 0 0 0 10 -10 v-6 a14 14 0 0 0 -14 -14 h-6 l-8 -10 a10 10 0 0 0 -8 -4 h-36 a10 10 0 0 0 -8 4 l-8 10 h-6 a14 14 0 0 0 -14 14 v6 a10 10 0 0 0 10 10 z" fill="none" stroke="#39ff14" stroke-width="4" stroke-linejoin="round"></path>
+  <circle cx="40" cy="80" r="8" fill="none" stroke="#39ff14" stroke-width="4"></circle>
+  <circle cx="88" cy="80" r="8" fill="none" stroke="#39ff14" stroke-width="4"></circle>
+  <path d="M98 26 c10 2 18 4 26 6 v16 c0 18 -10 30 -26 36 c-16 -6 -26 -18 -26 -36 v-16 c8 -2 16 -4 26 -6 z" fill="none" stroke="#39ff14" stroke-width="3" opacity="0.9"></path>
+</svg>
