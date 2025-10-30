@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 128 128" role="img" aria-label="Speedometer">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#39ff14"></stop><stop offset="1" stop-color="#9bff6e"></stop></linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="46" fill="none" stroke="url(#g)" stroke-width="4" opacity="0.9"></circle>
+  <path d="M24 76a40 40 0 0 1 80 0" fill="none" stroke="#39ff14" stroke-width="5" stroke-linecap="round"></path>
+  <circle cx="64" cy="64" r="6" fill="#39ff14"></circle>
+  <path d="M64 64 L92 44" stroke="#39ff14" stroke-width="6" stroke-linecap="round"></path>
+  <circle cx="92" cy="44" r="4" fill="#39ff14"></circle>
+</svg>
