@@ -18,7 +18,8 @@ kubectl apply -n ota-demo -f k8s/deployment.yaml
 kubectl apply -n ota-demo -f k8s/service.yaml
 
 # 4) 확인
-kubectl -n ota-demo rollout status deploy/ivi-theme
+kubectl -n ota-demo rollout status deploy/ota-asset
 kubectl -n ota-demo get pods -o wide
-kubectl -n ota-demo get svc ivi-theme
+kubectl -n ota-demo get svc ota-asset
 echo "[DONE] k3s deploy"
+

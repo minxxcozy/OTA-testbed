@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+# SBOM/서명 산출
+artifacts/
+*.log
+
+# cosign keys (데모 로컬 전용)
+cosign.key
+cosign.pub
